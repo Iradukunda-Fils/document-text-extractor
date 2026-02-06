@@ -1,7 +1,7 @@
 # DocuExtract Pro 📑
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/iradukunda-fils/document-text-extractor/main/app.py)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=iradukunda.document-text-extractor&left_text=Project_Views&color=007ec6)
+![Visitors](https://visitorbadge.io/status?path=iradukunda/document-text-extractor)
 ![forks badge](https://img.shields.io/github/forks/iradukunda-fils/document-text-extractor)
 ![starts badge](https://img.shields.io/github/stars/iradukunda-fils/document-text-extractor?style=social)
 
