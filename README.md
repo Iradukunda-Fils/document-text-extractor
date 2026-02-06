@@ -101,7 +101,7 @@ with open("document.pdf", "rb") as f:
 - ⚡ [Performance Optimizations](./docs/PERFORMANCE.md)
 - 🚀 [Deployment Options](./docs/DEPLOYMENT.md)
 
-<img src="./docs/images/architecture_overview.png" width="800" alt="System Architecture">
+<img src="./docs/images/architecture_overview.png" width="400" height="400" alt="System Architecture">
 
 ## 🎯 Use Cases
 
