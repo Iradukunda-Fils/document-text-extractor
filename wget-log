@@ -1,0 +1,12 @@
+--2026-02-06 01:25:20--  https://img.shields.io/badge/substack-%23FF6719.svg?style=for-the-badge
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving img.shields.io (img.shields.io)... 172.67.173.89, 104.21.80.27, 2606:4700:3035::ac43:ad59, ...
+Connecting to img.shields.io (img.shields.io)|172.67.173.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘substack-#FF6719.svg?style=for-the-badge’
+
+substack-#FF6719.svg?style=for-the-badge                   [<=>                                                                                                                       ]       0  --.-KB/s               substack-#FF6719.svg?style=for-the-badge                   [ <=>                                                                                                                      ]     457  --.-KB/s    in 0s      
+
+2026-02-06 01:25:21 (11.2 MB/s) - ‘substack-#FF6719.svg?style=for-the-badge’ saved [457]
+

@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# DocuExtract Pro - CLI Wrapper Script
+# Usage: ./extract <input_file> [options]
+
+set -e
+
+# Check if running in Docker or local
+if [ -f /.dockerenv ]; then
+    # Running in Docker
+    python -m text_extractor "$@"
+else
+    # Running locally - check if virtual env exists
+    if [ -d "venv" ]; then
+        source venv/bin/activate
+        python -m text_extractor "$@"
+    elif [ -d ".venv" ]; then
+        source .venv/bin/activate
+        python -m text_extractor "$@"
+    else
+        # Try running directly (assumes dependencies installed)
+        python -m text_extractor "$@"
+    fi
+fi

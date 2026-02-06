@@ -1,0 +1,38 @@
+
+# Version control
+.git
+.gitignore
+
+# Virtual environments
+venv
+.venv
+env
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build
+dist
+*.egg-info
+.eggs
+
+# Testing
+.tox
+.nox
+.pytest_cache
+.coverage
+htmlcov
+
+# App specific
+file_pages
+*.zip
+Dockerfile
+.dockerignore
+README.md
+task.md
+implementation_plan.md
+walkthrough.md

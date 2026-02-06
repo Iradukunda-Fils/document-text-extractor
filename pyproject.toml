@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdf-text-data-extractor"
+version = "0.1.0"
+description = "PDF text data extraction app"
+authors = [
+    { name = "Nainia Ayoub", email = "nainiayoub@gmail.com" }
+]
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit",
+    "pdfminer.six>=20240706",
+    "python-docx>=1.1.0",
+    "pdf2image",
+    "pytesseract",
+    "Pillow"
+]
+
+[tool.setuptools]
+py-modules = ["app", "functions"]
