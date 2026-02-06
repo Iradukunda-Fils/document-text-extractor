@@ -45,15 +45,15 @@ Welcome to the **DocuExtract Pro** documentation! This guide will help you under
 ## 📊 Visual Guides
 
 ### System Architecture
-![Architecture Overview](./images/architecture_overview.png)
+<img src="./images/architecture_overview.png" width="800" alt="Architecture Overview">
 *Three-layer architecture: Presentation, Core, and Strategy layers with clear separation of concerns*
 
 ### Performance Improvements
-![Performance Metrics](./images/performance_comparison.png)
+<img src="./images/performance_comparison.png" width="800" alt="Performance Metrics">
 *Key performance improvements: 6.7x faster preview, 87% memory reduction, 3.8x OCR speedup*
 
 ### User Interface
-![Web UI Screenshot](./images/ui_screenshot.png)
+<img src="./images/ui_screenshot.png" width="800" alt="Web UI Screenshot">
 *Modern, intuitive interface with real-time preview and diagnostic tools*
 
 ---

@@ -4,7 +4,7 @@
 
 DocuExtract Pro is an enterprise-grade document text extraction system designed for high-performance, memory-efficient processing of diverse document formats. The architecture prioritizes scalability, extensibility, and optimal resource utilization.
 
-![DocuExtract Pro Architecture](./images/architecture_overview.png)
+<img src="./images/architecture_overview.png" width="800" alt="DocuExtract Pro Architecture">
 *Figure 1: High-level system architecture showing the three-layer design pattern*
 
 ## Architectural Principles

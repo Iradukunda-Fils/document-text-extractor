@@ -4,7 +4,7 @@
 
 This document details the comprehensive performance optimizations implemented in DocuExtract Pro to achieve sub-second extraction times for native PDFs and efficient processing of multi-GB files with minimal memory overhead.
 
-![Performance Improvements](./images/performance_comparison.png)
+<img src="./images/performance_comparison.png" width="800" alt="Performance Improvements">
 *Figure 1: Performance metrics comparison - Before vs After optimization*
 
 ---

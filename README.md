@@ -6,7 +6,7 @@
 
 Enterprise-grade document text extraction system with smart OCR fallback, memory-efficient streaming, and production-ready deployment options.
 
-![DocuExtract Pro Interface](./docs/images/ui_screenshot.png)
+<img src="./docs/images/ui_screenshot.png" width="800" alt="DocuExtract Pro Interface">
 
 ## ✨ Key Features
 
@@ -101,7 +101,7 @@ with open("document.pdf", "rb") as f:
 - ⚡ [Performance Optimizations](./docs/PERFORMANCE.md)
 - 🚀 [Deployment Options](./docs/DEPLOYMENT.md)
 
-![System Architecture](./docs/images/architecture_overview.png)
+<img src="./docs/images/architecture_overview.png" width="800" alt="System Architecture">
 
 ## 🎯 Use Cases
 

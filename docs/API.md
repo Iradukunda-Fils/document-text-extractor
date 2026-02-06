@@ -212,7 +212,7 @@ streamlit run app.py
 
 Access at: `http://localhost:8501`
 
-![DocuExtract Pro Interface](./images/ui_screenshot.png)
+<img src="./images/ui_screenshot.png" width="800" alt="DocuExtract Pro Interface">
 *Figure 1: Web interface showing PDF preview, extraction controls, and settings*
 
 ### Features
