@@ -18,8 +18,6 @@ Enterprise-grade document text extraction system with smart OCR fallback, memory
 - **🚀 Parallel Processing** - Multi-threaded OCR for 3.8x faster extraction
 - **🐳 Production Ready** - Docker containerization, cloud deployment guides, monitoring
 
-![Performance Improvements](./docs/images/performance_comparison.png)
-
 ## 🚀 Quick Start
 
 ### Using CLI (Fastest)
